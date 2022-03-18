@@ -1,2 +1,4 @@
 semester 1 = 3.28
 semester 2 = 3.53
+semerter 3 = 3.3
+semester 4 = 0
